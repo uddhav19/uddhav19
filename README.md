@@ -8,6 +8,17 @@ Hello 👋 I'm Uddhav  <br><br>🛠️ Aspiring DevOps Engineer focused on autom
 # Personol Projects
 Welcome! Below are some of the hands-on projects I’ve built while working with DevOps tools, cloud platforms, and automation technologies.
 
+### 1. End-to-End-CI-CD-Pipeline-with-Docker-Jenkins-Kubernetes  
+🔗 [View Project](https://github.com/uddhav19/End-to-End-CI-CD-Pipeline-with-Docker-Jenkins-Kubernetes.git)
+
+- fully automated CI/CD pipeline that builds a Java/Maven web application, containerizes it with Docker, pushes the image to DockerHub, and deploys it to an AWS EKS (Kubernetes) cluster 
+*Tech Stack**
+- AWS
+- Jenkins
+- Docker & Docker Hub
+- GitHub
+- Kubernetes (EKS) 
+
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Uddhav-hon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uddhavhon8265@gmail.com) 
