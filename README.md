@@ -12,7 +12,7 @@ Welcome! Below are some of the hands-on projects I’ve built while working with
 🔗 [View Project](https://github.com/uddhav19/End-to-End-CI-CD-Pipeline-with-Docker-Jenkins-Kubernetes.git)
 
 - fully automated CI/CD pipeline that builds a Java/Maven web application, containerizes it with Docker, pushes the image to DockerHub, and deploys it to an AWS EKS (Kubernetes) cluster 
-*Tech Stack**
+**Tech Stack**
 - AWS
 - Jenkins
 - Docker & Docker Hub
